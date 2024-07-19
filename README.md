@@ -1,4 +1,4 @@
-# Welcome to Bricks wars: A Tetris story
+# Welcome to Tetris: A Bricks wars story
 i have made a Tetris game in 8086 using nasm. I have given it a star wars inspired intro and outro.Try it out , i hope you will like it. It also includes music in it and have given it a star wars touch as well.
 ## Rules:
 - 3 minutes timer
